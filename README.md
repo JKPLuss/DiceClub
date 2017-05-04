@@ -1,5 +1,5 @@
 # DiceClub
-Dice Club Idea
+
 This club help us
 for (int i=0;i<10;i++)
 {
